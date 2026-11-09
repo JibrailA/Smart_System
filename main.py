@@ -1,3 +1,4 @@
 print("Dit is ons Smart System")
 
-print("Ahmed was here")
+print("Jibrail")
+print("Umar")
